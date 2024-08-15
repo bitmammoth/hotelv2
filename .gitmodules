@@ -1,0 +1,6 @@
+[submodule "clientv2"]
+	path = clientv2
+	url = https://github.com/bitmammoth/clientv2.git
+[submodule "serverv2"]
+	path = serverv2
+	url = https://github.com/bitmammoth/serverv2.git
